@@ -24,7 +24,7 @@ Ainda no Spring Tools Suite 4 é possivel inicializar o serviço na aba **Boot D
 ![bootDashboard](https://github.com/IgorFPonchielli/kyly-teste/blob/master/DEMO/SpringToolSuite4_bootDashboard.png "bootDashboard")
 
 #### Inicialização do serviço Angular CLI
-Para iniciarmos um servidor local usando o Angular CLI acessamos a pasta onde está o projeto, nesse caso é a pasta *Frontend-products\product-list*, então executamos o comando **ng serve**
+Para iniciarmos um servidor local usando o Angular CLI acessamos a pasta onde está o projeto, nesse caso é a pasta *Frontend-products\product-list*, então executamos o comando **ng serve**, caso não tenha os moduos instalados, execute o comando **npm install** no diretório para que não tenhamos problemas para inicializar a aplicação.
 
 Para acessar o projeto basta acessar a URL http://localhost:4200
 
