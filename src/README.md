@@ -28,4 +28,4 @@ Para iniciarmos um servidor local usando o Angular CLI acessamos a pasta onde es
 
 Para acessar o projeto basta acessar a URL http://localhost:4200
 
-**Pronto já todos os serviços já estão funcionando**
+**Pronto, todos os serviços já estão funcionando**
